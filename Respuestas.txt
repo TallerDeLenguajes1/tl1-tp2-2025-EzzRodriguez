@@ -1,0 +1,3 @@
+f) Al cambiar a la rama Main desde la rama Opcion_2 desaparecio el archivo tp2_1_2.c ya que ese archivo estaba en una rama separada, se utiliza estas ramas para crear funcionalidades nuevas en programas sin modificar los archivos que ya funcionaban correctamente y que el programa principal que esta en la rama principal continue funcionando independientemente de los cambios quen hagamos nosotros en nuestra rama.
+Al agregar el archivo respuestas en la rama principal se podia ver en el git graph claramente como eran dos ramas distintas y como una no afectaba a la otra.
+Al realizar el merge podemos observar como se Implementa la rama Opcion_2 de nuevo en el main combinando asi tambien los cambios.
